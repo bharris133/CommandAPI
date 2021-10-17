@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = CommandAPI
-build_property.ProjectDir = d:\Projects\API-Projects\Complete_API-Tutorial\CommandAPISolution\src\CommandAPI\
+build_property.ProjectDir = D:\Projects\API-Projects\Complete_API-Tutorial\CommandAPISolution\src\CommandAPI\
