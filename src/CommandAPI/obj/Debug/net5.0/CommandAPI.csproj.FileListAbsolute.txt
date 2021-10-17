@@ -21,3 +21,13 @@ D:\Projects\API-Projects\Complete_API-Tutorial\CommandAPISolution\src\CommandAPI
 D:\Projects\API-Projects\Complete_API-Tutorial\CommandAPISolution\src\CommandAPI\obj\Debug\net5.0\ref\CommandAPI.dll
 D:\Projects\API-Projects\Complete_API-Tutorial\CommandAPISolution\src\CommandAPI\obj\Debug\net5.0\CommandAPI.pdb
 D:\Projects\API-Projects\Complete_API-Tutorial\CommandAPISolution\src\CommandAPI\obj\Debug\net5.0\CommandAPI.genruntimeconfig.cache
+D:\Projects\API-Projects\Complete_API-Tutorial\CommandAPISolution\src\CommandAPI\bin\Debug\net5.0\Humanizer.dll
+D:\Projects\API-Projects\Complete_API-Tutorial\CommandAPISolution\src\CommandAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Projects\API-Projects\Complete_API-Tutorial\CommandAPISolution\src\CommandAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Projects\API-Projects\Complete_API-Tutorial\CommandAPISolution\src\CommandAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Projects\API-Projects\Complete_API-Tutorial\CommandAPISolution\src\CommandAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Projects\API-Projects\Complete_API-Tutorial\CommandAPISolution\src\CommandAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Projects\API-Projects\Complete_API-Tutorial\CommandAPISolution\src\CommandAPI\bin\Debug\net5.0\Npgsql.dll
+D:\Projects\API-Projects\Complete_API-Tutorial\CommandAPISolution\src\CommandAPI\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Projects\API-Projects\Complete_API-Tutorial\CommandAPISolution\src\CommandAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Projects\API-Projects\Complete_API-Tutorial\CommandAPISolution\src\CommandAPI\obj\Debug\net5.0\CommandAPI.csproj.CopyComplete
