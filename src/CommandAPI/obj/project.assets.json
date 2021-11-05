@@ -824,11 +824,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\API-Projects\\Complete_API-Tutorial\\CommandAPISolution\\src\\CommandAPI\\CommandAPI.csproj",
+      "projectUniqueName": "d:\\Projects\\API-Projects\\Complete_API-Tutorial\\CommandAPISolution\\src\\CommandAPI\\CommandAPI.csproj",
       "projectName": "CommandAPI",
-      "projectPath": "D:\\Projects\\API-Projects\\Complete_API-Tutorial\\CommandAPISolution\\src\\CommandAPI\\CommandAPI.csproj",
+      "projectPath": "d:\\Projects\\API-Projects\\Complete_API-Tutorial\\CommandAPISolution\\src\\CommandAPI\\CommandAPI.csproj",
       "packagesPath": "C:\\Users\\bharr\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\API-Projects\\Complete_API-Tutorial\\CommandAPISolution\\src\\CommandAPI\\obj\\",
+      "outputPath": "d:\\Projects\\API-Projects\\Complete_API-Tutorial\\CommandAPISolution\\src\\CommandAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

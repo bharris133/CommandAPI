@@ -31,3 +31,12 @@ D:\Projects\API-Projects\Complete_API-Tutorial\CommandAPISolution\src\CommandAPI
 D:\Projects\API-Projects\Complete_API-Tutorial\CommandAPISolution\src\CommandAPI\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
 D:\Projects\API-Projects\Complete_API-Tutorial\CommandAPISolution\src\CommandAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
 D:\Projects\API-Projects\Complete_API-Tutorial\CommandAPISolution\src\CommandAPI\obj\Debug\net5.0\CommandAPI.csproj.CopyComplete
+D:\Projects\API-Projects\Complete_API-Tutorial\CommandAPISolution\LocalFunctionProj\bin\output\appsettings.Development.json
+D:\Projects\API-Projects\Complete_API-Tutorial\CommandAPISolution\LocalFunctionProj\bin\output\appsettings.json
+D:\Projects\API-Projects\Complete_API-Tutorial\CommandAPISolution\LocalFunctionProj\bin\output\CommandAPI.exe
+D:\Projects\API-Projects\Complete_API-Tutorial\CommandAPISolution\LocalFunctionProj\bin\output\CommandAPI.deps.json
+D:\Projects\API-Projects\Complete_API-Tutorial\CommandAPISolution\LocalFunctionProj\bin\output\CommandAPI.runtimeconfig.json
+D:\Projects\API-Projects\Complete_API-Tutorial\CommandAPISolution\LocalFunctionProj\bin\output\CommandAPI.runtimeconfig.dev.json
+D:\Projects\API-Projects\Complete_API-Tutorial\CommandAPISolution\LocalFunctionProj\bin\output\CommandAPI.dll
+D:\Projects\API-Projects\Complete_API-Tutorial\CommandAPISolution\LocalFunctionProj\bin\output\ref\CommandAPI.dll
+D:\Projects\API-Projects\Complete_API-Tutorial\CommandAPISolution\LocalFunctionProj\bin\output\CommandAPI.pdb

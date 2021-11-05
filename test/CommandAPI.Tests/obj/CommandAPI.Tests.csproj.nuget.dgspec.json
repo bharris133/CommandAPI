@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\API-Projects\\Complete_API-Tutorial\\CommandAPISolution\\test\\CommandAPI.Tests\\CommandAPI.Tests.csproj": {}
+    "d:\\Projects\\API-Projects\\Complete_API-Tutorial\\CommandAPISolution\\test\\CommandAPI.Tests\\CommandAPI.Tests.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\API-Projects\\Complete_API-Tutorial\\CommandAPISolution\\src\\CommandAPI\\CommandAPI.csproj": {
+    "d:\\Projects\\API-Projects\\Complete_API-Tutorial\\CommandAPISolution\\src\\CommandAPI\\CommandAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\API-Projects\\Complete_API-Tutorial\\CommandAPISolution\\src\\CommandAPI\\CommandAPI.csproj",
+        "projectUniqueName": "d:\\Projects\\API-Projects\\Complete_API-Tutorial\\CommandAPISolution\\src\\CommandAPI\\CommandAPI.csproj",
         "projectName": "CommandAPI",
-        "projectPath": "D:\\Projects\\API-Projects\\Complete_API-Tutorial\\CommandAPISolution\\src\\CommandAPI\\CommandAPI.csproj",
+        "projectPath": "d:\\Projects\\API-Projects\\Complete_API-Tutorial\\CommandAPISolution\\src\\CommandAPI\\CommandAPI.csproj",
         "packagesPath": "C:\\Users\\bharr\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\API-Projects\\Complete_API-Tutorial\\CommandAPISolution\\src\\CommandAPI\\obj\\",
+        "outputPath": "d:\\Projects\\API-Projects\\Complete_API-Tutorial\\CommandAPISolution\\src\\CommandAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -45,6 +45,22 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.11, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[5.0.10, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -67,14 +83,14 @@
         }
       }
     },
-    "D:\\Projects\\API-Projects\\Complete_API-Tutorial\\CommandAPISolution\\test\\CommandAPI.Tests\\CommandAPI.Tests.csproj": {
+    "d:\\Projects\\API-Projects\\Complete_API-Tutorial\\CommandAPISolution\\test\\CommandAPI.Tests\\CommandAPI.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\API-Projects\\Complete_API-Tutorial\\CommandAPISolution\\test\\CommandAPI.Tests\\CommandAPI.Tests.csproj",
+        "projectUniqueName": "d:\\Projects\\API-Projects\\Complete_API-Tutorial\\CommandAPISolution\\test\\CommandAPI.Tests\\CommandAPI.Tests.csproj",
         "projectName": "CommandAPI.Tests",
-        "projectPath": "D:\\Projects\\API-Projects\\Complete_API-Tutorial\\CommandAPISolution\\test\\CommandAPI.Tests\\CommandAPI.Tests.csproj",
+        "projectPath": "d:\\Projects\\API-Projects\\Complete_API-Tutorial\\CommandAPISolution\\test\\CommandAPI.Tests\\CommandAPI.Tests.csproj",
         "packagesPath": "C:\\Users\\bharr\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\API-Projects\\Complete_API-Tutorial\\CommandAPISolution\\test\\CommandAPI.Tests\\obj\\",
+        "outputPath": "d:\\Projects\\API-Projects\\Complete_API-Tutorial\\CommandAPISolution\\test\\CommandAPI.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -97,8 +113,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\Projects\\API-Projects\\Complete_API-Tutorial\\CommandAPISolution\\src\\CommandAPI\\CommandAPI.csproj": {
-                "projectPath": "D:\\Projects\\API-Projects\\Complete_API-Tutorial\\CommandAPISolution\\src\\CommandAPI\\CommandAPI.csproj"
+              "d:\\Projects\\API-Projects\\Complete_API-Tutorial\\CommandAPISolution\\src\\CommandAPI\\CommandAPI.csproj": {
+                "projectPath": "d:\\Projects\\API-Projects\\Complete_API-Tutorial\\CommandAPISolution\\src\\CommandAPI\\CommandAPI.csproj"
               }
             }
           }
