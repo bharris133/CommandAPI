@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "version": "0.2.0",
   "configurations": [
     {
@@ -24,4 +25,31 @@
       "processId": "${command:azureFunctions.pickProcess}"
     }
   ]
+=======
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"name": ".NET Core Launch (console)",
+			"type": "coreclr",
+			"request": "launch",
+			"preLaunchTask": "build",
+			"program": "${workspaceFolder}/test/CommandAPI.Tests/bin/Debug/net5.0/CommandAPI.Tests.dll",
+			"args": [],
+			"cwd": "${workspaceFolder}/test/CommandAPI.Tests",
+			"console": "internalConsole",
+			"stopAtEntry": false
+		},
+		{
+			"name": ".NET Core Attach",
+			"type": "coreclr",
+			"request": "attach"
+		},
+		{
+			"name": "Attach to .NET Functions",
+			"type": "coreclr",
+			"request": "attach",
+			"processId": "${command:azureFunctions.pickProcess}"
+		}
+	]
+>>>>>>> 1fd7887663a7d66f32077f4f9104d12e299b0397
 }

@@ -1,7 +1,15 @@
 {
+<<<<<<< HEAD
   "azureFunctions.deploySubpath": "LocalFunctionProj/bin/Release/net5.0/publish",
   "azureFunctions.projectLanguage": "C#",
   "azureFunctions.projectRuntime": "~3",
   "debug.internalConsoleOptions": "neverOpen",
   "azureFunctions.preDeployTask": "publish (functions)"
+=======
+	"azureFunctions.deploySubpath": "LocalFunctionProj/bin/Release/net5.0/publish",
+	"azureFunctions.projectLanguage": "C#",
+	"azureFunctions.projectRuntime": "~3",
+	"debug.internalConsoleOptions": "neverOpen",
+	"azureFunctions.preDeployTask": "publish (functions)"
+>>>>>>> 1fd7887663a7d66f32077f4f9104d12e299b0397
 }

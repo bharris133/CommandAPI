@@ -40,6 +40,7 @@ D:\Projects\API-Projects\Complete_API-Tutorial\CommandAPISolution\LocalFunctionP
 D:\Projects\API-Projects\Complete_API-Tutorial\CommandAPISolution\LocalFunctionProj\bin\output\CommandAPI.dll
 D:\Projects\API-Projects\Complete_API-Tutorial\CommandAPISolution\LocalFunctionProj\bin\output\ref\CommandAPI.dll
 D:\Projects\API-Projects\Complete_API-Tutorial\CommandAPISolution\LocalFunctionProj\bin\output\CommandAPI.pdb
+<<<<<<< HEAD
 D:\Projects\API-Projects\Complete_API-Tutorial\CommandAPISolutionSQL\src\CommandAPI\bin\Debug\net5.0\appsettings.Development.json
 D:\Projects\API-Projects\Complete_API-Tutorial\CommandAPISolutionSQL\src\CommandAPI\bin\Debug\net5.0\appsettings.json
 D:\Projects\API-Projects\Complete_API-Tutorial\CommandAPISolutionSQL\src\CommandAPI\bin\Debug\net5.0\CommandAPI.exe
@@ -102,3 +103,5 @@ D:\Projects\API-Projects\Complete_API-Tutorial\CommandAPISolutionSQL\src\Command
 D:\Projects\API-Projects\Complete_API-Tutorial\CommandAPISolutionSQL\src\CommandAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 D:\Projects\API-Projects\Complete_API-Tutorial\CommandAPISolutionSQL\src\CommandAPI\bin\Debug\net5.0\AutoMapper.dll
 D:\Projects\API-Projects\Complete_API-Tutorial\CommandAPISolutionSQL\src\CommandAPI\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+=======
+>>>>>>> 1fd7887663a7d66f32077f4f9104d12e299b0397
